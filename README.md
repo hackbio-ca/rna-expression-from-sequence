@@ -1,6 +1,6 @@
 # RNA-expression-from-sequences
 
-** Toronto Bioinformatics Hackathon, 2024**
+**Toronto Bioinformatics Hackathon, 2024**
 
 ## 🥇 Winner of the First Place award!
 
